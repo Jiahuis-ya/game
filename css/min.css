@@ -1,0 +1,16 @@
+@font-face {
+		  font-family: 'nininini';
+		  src:  url('../fonts/icomoon.eot') format('embedded-opentype'),
+		  url('../fonts/icomoon.svg') format('svg'),
+		  url('../fonts/icomoon.ttf') format('truetype'),
+		  url('../fonts/icomoon.woff') format('woff');
+		}
+
+		strong{
+		  font-family: nininini;
+		  font-style: normal;
+		  font-size:20px;
+		  font-weight:800;
+		  color:#8ACDBF;
+		}
+
