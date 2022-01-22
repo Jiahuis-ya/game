@@ -1,2 +1,2 @@
 # -
-this is谈何website of 天涯明月刀
+this is website of game
